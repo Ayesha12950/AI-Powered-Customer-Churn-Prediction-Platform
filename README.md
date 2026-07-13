@@ -1,8 +1,6 @@
 # AI-Powered-Customer-Churn-Prediction-Platform
 AI-powered customer churn prediction using XGBoost, Streamlit, and Power BI
 
-# AI-Powered Customer Churn Prediction Platform
-
 An AI-powered customer churn prediction platform that helps businesses identify customers who are likely to leave. The project combines Machine Learning (XGBoost), Streamlit, and Power BI to provide accurate predictions and interactive business insights.
 
 ---
